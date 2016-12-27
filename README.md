@@ -1,6 +1,8 @@
 # New-Gen-NOJ
 A redesigned new generation online judge for NJUPT ACM Team
 
+## See [OnlineJudge](https://github.com/NJUPT-ACM-Team/OnlineJudge) ##
+
 ## Basic Requirements:
 * Local judge
 * Virtual judge
